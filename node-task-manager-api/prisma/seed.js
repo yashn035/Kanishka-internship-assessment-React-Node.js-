@@ -53,7 +53,7 @@ async function main() {
     data: {
       user_id: john.id,
       title: 'Setup Initial Project Boilerplate',
-      description: 'Initialize Express app with Prisma ORM and SQLite configuration.',
+      description: 'Initialize Express app with Prisma ORM and PostgreSQL configuration.',
       status: 'Completed'
     }
   });
